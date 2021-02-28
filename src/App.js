@@ -1,10 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+ import React, { useEffect, useState } from 'react';
+ import playerData from './fakeData/data';
+
+
+
 
 function App() {
+  const [palyers,setPlayers]=useState([]);
+  useEffect(()=>{
+    setPlayers(playerData);
+    console.log(playerData);
+
+
+  }, [])
+  
+  
+ 
+ 
   return (
-      <h1>Hellow</h1>
-  )
+       
+     <>
+     <ul>
+       {/* {
+         Data[0].name
+       } */}
+     </ul>
+     </>
+  );
 }
 
 export default App;
