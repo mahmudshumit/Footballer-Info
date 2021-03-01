@@ -21,7 +21,7 @@ function App() {
   return (
     <div>
       <h1>Total Player Number :{palyers.length}</h1>
-      <h1>Player Added :{cart.length}</h1>
+      <h1>Player Added To Club :{cart.length}</h1>
       {
         cart.map(cart => <li> Player Name: {cart.name}, Salary : {cart.salary},  Club Name : {cart.Club}  </li>)
       }
