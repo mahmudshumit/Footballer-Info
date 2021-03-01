@@ -1,107 +1,73 @@
 const playerData=[{
     "id": 1,
-    "name": "Marwin Arnau",
-    "image": "http://dummyimage.com/207x180.png/dddddd/000000",
-    "salary": "8283",
-    "jersey": 79,
-    "Club": "Anatola Spirit"
+    "name": "Cristiano Ronaldo",
+    "image": "https://i.ibb.co/1nF7SLp/Cristiano.jpg",
+    "salary": 8000,
+    "jersey": 7,
+    "Club": "Juventus"
   }, {
     "id": 2,
-    "name": "Carolina Franken",
-    "image": "http://dummyimage.com/166x219.bmp/cc0000/ffffff",
-    "salary": "41514",
-    "jersey": 52,
-    "Club": "Ethan Troppmann"
+    "name": "Sergio Ramos",
+    "image": "https://i.ibb.co/yfp13WB/Sergio.jpg",
+    "salary": 4000,
+    "jersey": 4,
+    "Club": "Real Madrid"
   }, {
     "id": 3,
-    "name": "Joycelin Doy",
-    "image": "http://dummyimage.com/171x119.jpg/5fa2dd/ffffff",
-    "salary": "6",
-    "jersey": 18,
-    "Club": "Gael Connikie"
+    "name": "Kross",
+    "image": "https://i.ibb.co/6JG5Nnm/toni.jpg",
+    "salary": 6000,
+    "jersey": 8,
+    "Club": "Real Madrid"
   }, {
     "id": 4,
-    "name": "Quintina Clucas",
-    "image": "http://dummyimage.com/143x171.bmp/5fa2dd/ffffff",
-    "salary": "81687",
-    "jersey": 39,
-    "Club": "Annalee Mansel"
+    "name": "Marcelo",
+    "image": "https://i.ibb.co/DL1fhbZ/screen-1.jpg",
+    "salary": 8000,
+    "jersey": 2,
+    "Club": "Real Madrid"
   }, {
     "id": 5,
-    "name": "Hunt Dudman",
-    "image": "http://dummyimage.com/100x133.bmp/ff4444/ffffff",
-    "salary": "976",
-    "jersey": 94,
-    "Club": "Pren Brewis"
+    "name": "Modric",
+    "image": "https://i.ibb.co/g76T7ww/wp1824795.jpg",
+    "salary": 900,
+    "jersey": 10,
+    "Club":  "Real Madrid"
   }, {
     "id": 6,
-    "name": "Leon Lindores",
-    "image": "http://dummyimage.com/145x184.png/5fa2dd/ffffff",
-    "salary": "659",
-    "jersey": 37,
-    "Club": "Angelika Toffano"
+    "name": "Benzema",
+    "image": "https://i.ibb.co/bgQvsz3/wallpapertip-real-madrid-live-wallpaper-1577577.jpg",
+    "salary": 65900,
+    "jersey": 9,
+    "Club":  "Real Madrid"
   }, {
     "id": 7,
-    "name": "Larine Hawthorn",
-    "image": "http://dummyimage.com/206x145.jpg/5fa2dd/ffffff",
-    "salary": "0",
-    "jersey": 100,
-    "Club": "Reuven Shardlow"
+    "name": "Casemaro",
+    "image": "https://i.ibb.co/XF7nk6B/download.jpg",
+    "salary": 50000,
+    "jersey": 3,
+    "Club":  "Real Madrid"
   }, {
     "id": 8,
-    "name": "Lydon Iacovolo",
-    "image": "http://dummyimage.com/162x195.bmp/5fa2dd/ffffff",
-    "salary": "01",
-    "jersey": 25,
-    "Club": "Guenevere Mcettrick"
+    "name": "Varane",
+    "image": "https://i.ibb.co/qnLJjgS/wp1934214.jpg",
+    "salary": 8000,
+    "jersey": 19,
+    "Club": "Real Madrid"
   }, {
     "id": 9,
-    "name": "Addy Jell",
-    "image": "http://dummyimage.com/249x123.bmp/dddddd/000000",
-    "salary": "02",
+    "name": "Asensio",
+    "image": "https://i.ibb.co/NVR4CmL/Marco-Asensio-1-1800x1244.png",
+    "salary": 8000,
     "jersey": 26,
-    "Club": "Olivie Lunney"
+    "Club": "Real Madrid"
   }, {
     "id": 10,
-    "name": "Cathyleen Ecclestone",
-    "image": "http://dummyimage.com/217x227.jpg/ff4444/ffffff",
-    "salary": "6006",
-    "jersey": 9,
-    "Club": "Carri Margaret"
-  }, {
-    "id": 11,
-    "name": "Prentice Sheaber",
-    "image": "http://dummyimage.com/131x186.bmp/5fa2dd/ffffff",
-    "salary": "67",
-    "jersey": 64,
-    "Club": "Arlin Dallywater"
-  }, {
-    "id": 12,
-    "name": "Porty Lawrence",
-    "image": "http://dummyimage.com/199x202.bmp/ff4444/ffffff",
-    "salary": "7",
-    "jersey": 80,
-    "Club": "Gradey Hinzer"
-  }, {
-    "id": 13,
-    "name": "Marietta Tissier",
-    "image": "http://dummyimage.com/210x187.bmp/5fa2dd/ffffff",
-    "salary": "29",
-    "jersey": 51,
-    "Club": "Pierrette Skerman"
-  }, {
-    "id": 14,
-    "name": "Devin Archibald",
-    "image": "http://dummyimage.com/119x123.bmp/ff4444/ffffff",
-    "salary": "3",
-    "jersey": 26,
-    "Club": "Agatha Murgatroyd"
-  }, {
-    "id": 15,
-    "name": "Merline Mumbeson",
-    "image": "http://dummyimage.com/164x101.png/dddddd/000000",
-    "salary": "063",
-    "jersey": 44,
-    "Club": "Tomi Dykas"
-  }]
+    "name": "Hazard",
+    "image": "https://i.ibb.co/G7n6qS2/eden.jpg",
+    "salary": 6000,
+    "jersey": 90,
+    "Club": "Real Madrid"
+  }, 
+  ]
   export default playerData;
