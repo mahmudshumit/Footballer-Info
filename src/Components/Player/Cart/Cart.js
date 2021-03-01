@@ -8,9 +8,10 @@ const Cart = (props) => {
 
     return (
         <div>
-           <h2>Player Cart :{cart.length}</h2> 
-           <p>Player Name: :{totalName} </p>
-           <p>Total Salary :{totalSalary}</p>
+        
+     
+         
+           <h2>Total Salary :{totalSalary}</h2>
         </div>
     );
 };
